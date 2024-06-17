@@ -1,2 +1,2 @@
 # ShareThougts
-Ini adalah percobaan
+Ini adalah percobaan gaiss
